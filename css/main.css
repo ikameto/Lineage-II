@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../img/gracia.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 1000px;
+
+}
+
+.header-container {
+  /* background-image: url(../img/back-banner.jpg); */
+  width: 1000px;
+  margin: 5px 135px 5px 5px;
+  display: block;
+  opacity: 1;
+}
+
+.for-game {
+  color: black;
+  font-size: 20px;
+  margin: 5px 10px 5px 5px;
+  
+}
+
+.logo {
+  height: 70px;
+  margin: 5px 10px 0px 0;
+}
+
+.cont-online {
+  width: 100px;
+  display: inline-block;
+  margin: 10px 0 10px 1156px;
+}
+
+.both-on-quant {
+  text-align: right;
+  margin: 5px 10px;
+}
+
+.about-online {
+  font-size: 20px;
+  color:#990000;
+  border-bottom: 2px aqua solid;
+}
+
+.quantity {
+  color:#008000;
+  font-size: 25px;
+  margin: 5px 30px;
+
+}
+
+.navigation {
+  margin: 5px 10px 10px 5px;
+}
+
+.nav-ul {
+  padding: 10px;
+}
+
+.nav-li {
+  display: inline-block;
+  font-size: 20px;
+  color:blue;
+  margin: 5px;
+  padding: 5px;
+  border-right: 3px aqua solid;
+}
+
+.nav-active {
+  color:red;
+}
+
+.container-section {
+  width: 1000px;
+  display:inline-block;
+  margin: 5px 135px 5px 135px;
+}
+
+.cont-about {
+  width: 300px;
+  margin: 10px 15px 20px 10px;
+}
+
+.cont-para {
+  margin: 10px 10px 20px 25px;
+  padding: 5px;
+  font-size: 18px;
+  color: brown;
+}
+
+.sect-about {
+  margin: 5px 5px 5px 10px;
+  padding: 5px;
+  border-top: 4px aqua solid;
+  color: #990000;
+  font-size: 20px;
+}
+
+.sect-para {
+  margin: 5px 5px 5px 10px;
+  padding: 5px;
+  color: #008000;
+  font-size: 16px;
+}
+
+.simple-form {
+  text-align: center;
+  display: block;
+  width: 990px;
+  margin: 15px 5px 5px 135px;
+  padding: 5px;
+}
+
+.registr {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 10px 10px 10px;
+}
+
+.wrapper-for-ftr {
+  display: block;
+  width: 1000px;
+  margin: 100px 0 30px 10px;
+}
+
+.wrapper-ftr {
+  display: block;
+  width: 1000px;
+}
+
+.ftr-logo {
+  height: 150px;
+  margin: 5px 10px 0 0;
+}
+
+/* history html */
+
+.wrapper-section {
+  display:block;
+  margin: 100px 0px 20px 10px;
+}
+
+.wrapper-head {
+  text-align: center;
+  padding: 25px 20px 10px 270px;
+  font-size: 25px;
+  color:#cc0000 ;
+}
+
+.head-photo {
+  text-align: center;
+  padding: 10px 50px 20px 435px;
+  vertical-align: top;
+}
+
+.card-wrapper {
+  width: 50%;
+  margin: 0 0 20px 0;
+  display: inline-block;
+
+}
+
+.card-head {
+  font-size: 20px;
+  padding: 0 0 10px 0;
+  color: #990000;
+}
+
+.card-photo {
+  width: 35%;
+}
+
+.card-p {
+  display: inline-block;
+  width: 60%;
+  vertical-align: top;
+  padding: 0 0 0 10px;
+  font: bold;
+  font-size: 16px;
+  color: #000066;
+}
+
+.card-wrapper-center {
+  margin: 10px 100px 10px 250px;
+}
